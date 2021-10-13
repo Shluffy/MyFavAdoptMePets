@@ -7,6 +7,42 @@
   "neon": false,
   "mega": false, 
   "pet": "Cerberus"
-  }
+  },
+ 
+  {
+  "name": "Kitsune",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Kitsune"
+  },
   
+ {
+  "name": "Buey De Metal",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Metal Ox"
+  },
+ 
+ {
+  "name": "Star Burr",
+  "fly": true, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Unicorn"
+  },
+ 
+ {
+  "name": "Chuck",
+  "fly": true, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Albino Bat"
+  }
+ 
 ]
