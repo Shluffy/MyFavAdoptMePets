@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <title>My Favorite Roblox Adopt Me Pets - MyFavAdoptMePets - Shluffy</title>
+  <div id="pets">
+  <h1>My Favorite Roblox Adopt Me Pets</h1>
+  </div>
+<script>
+  loadgo()
+function loadgo(){
+		fetch("https://shluffy.github.io/MyShinyPokemon/json.json") // Change this is pulling on a fork
+		.then(response => response.json())
+		.then(data => {
+    for (i = 0; i < data.length; i++) {
+    //Construct Additiom
+    var addition = `<p>${data[i].name}: <br> ${data[i].name} is a `;
+    if (data[i].ride){
+    addition += `ride `;
+    }
+    if (data[i].fly){
+    addition += `fly `;
+    }
+    if (data[i].neon){
+    addition += `neon `;
+    }
+    if (data[i].mega){
+    addition += `mega neon `;
+    }
+    addition += `${data[i].pet}.`;
+    //Add addition
+    document.getElementById("pets").innerHTML += addition;
+    }
+  });
+  }
+  
+	  
+  </script>
+	
+</html>
