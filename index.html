@@ -12,7 +12,7 @@ function loadgo(){
 		.then(data => {
     for (i = 0; i < data.length; i++) {
     //Construct Additiom
-    var addition = `<p>${data[i].name}: <br> ${data[i].name} is a `;
+    var addition = `<p><b>${data[i].name}:</b> <br> ${data[i].name} is a `;
     if (data[i].ride){
     addition += `ride `;
     }
