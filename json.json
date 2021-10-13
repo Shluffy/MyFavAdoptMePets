@@ -43,6 +43,114 @@
   "neon": false,
   "mega": false, 
   "pet": "Albino Bat"
+  },
+ 
+ {
+  "name": "Kloe",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Koala"
+  },
+ 
+ {
+  "name": "Panda",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Panda"
+  },
+ 
+ {
+  "name": "Shiba Inu",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Shiba Inu"
+  },
+ 
+ {
+  "name": "Sloth",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Sloth"
+  },
+ 
+ {
+  "name": "EmuEmu Go",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Emu"
+  },
+ 
+ {
+  "name": "Neo",
+  "fly": true, 
+  "ride": true, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Bat"
+  },
+ 
+ {
+  "name": "Bart",
+  "fly": true, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Bat"
+  },
+ 
+ {
+  "name": "Cookie",
+  "fly": false, 
+  "ride": false, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Chocolate Labrador"
+  },
+ 
+ {
+  "name": "Cloudy",
+  "fly": false, 
+  "ride": true, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Chocolate Labrador"
+  },
+ 
+ {
+  "name": "Pinky",
+  "fly": true, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Pink Cat"
+  },
+ 
+ {
+  "name": "Mr Snowman",
+  "fly": false, 
+  "ride": false, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Snowman"
+  },
+ 
+ {
+  "name": "Terry",
+  "fly": true, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Wolf"
   }
  
 ]
