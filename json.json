@@ -46,6 +46,15 @@
   },
  
  {
+  "name": "Arty",
+  "fly": false, 
+  "ride": true, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Arctic Fox"
+  },
+ 
+ {
   "name": "Kloe",
   "fly": false, 
   "ride": false, 
