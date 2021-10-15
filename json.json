@@ -91,12 +91,30 @@
   },
  
  {
+  "name": "Australian Kelpie",
+  "fly": false, 
+  "ride": true, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Australian Kelpie"
+  },
+ 
+ {
   "name": "EmuEmu Go",
   "fly": false, 
   "ride": false, 
   "neon": false,
   "mega": false, 
   "pet": "Emu"
+  },
+ 
+ {
+  "name": "Monkey",
+  "fly": false, 
+  "ride": false, 
+  "neon": false,
+  "mega": false, 
+  "pet": "Monkey"
   },
  
  {
