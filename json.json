@@ -8,15 +8,6 @@
   "mega": false, 
   "pet": "Cerberus"
   },
- 
-  {
-  "name": "Kitsune",
-  "fly": false, 
-  "ride": false, 
-  "neon": false,
-  "mega": false, 
-  "pet": "Kitsune"
-  },
   
  {
   "name": "Buey De Metal",
@@ -151,24 +142,6 @@
   "neon": true,
   "mega": false, 
   "pet": "Chocolate Labrador"
-  },
- 
- {
-  "name": "Pinky",
-  "fly": true, 
-  "ride": true, 
-  "neon": false,
-  "mega": false, 
-  "pet": "Pink Cat"
-  },
- 
- {
-  "name": "Mr Snowman",
-  "fly": false, 
-  "ride": false, 
-  "neon": true,
-  "mega": false, 
-  "pet": "Snowman"
   },
  
  {
