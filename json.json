@@ -46,30 +46,12 @@
   },
  
  {
-  "name": "Kloe",
-  "fly": false, 
-  "ride": false, 
-  "neon": false,
-  "mega": false, 
-  "pet": "Koala"
-  },
- 
- {
   "name": "Panda",
   "fly": false, 
   "ride": false, 
   "neon": false,
   "mega": false, 
   "pet": "Panda"
-  },
- 
- {
-  "name": "Shiba Inu",
-  "fly": false, 
-  "ride": false, 
-  "neon": false,
-  "mega": false, 
-  "pet": "Shiba Inu"
   },
  
  {
@@ -88,15 +70,6 @@
   "neon": true,
   "mega": false, 
   "pet": "Australian Kelpie"
-  },
- 
- {
-  "name": "EmuEmu Go",
-  "fly": false, 
-  "ride": false, 
-  "neon": false,
-  "mega": false, 
-  "pet": "Emu"
   },
  
  {
