@@ -73,9 +73,9 @@
   },
  
  {
-  "name": "Monkey",
+  "name": "Marcel",
   "fly": false, 
-  "ride": false, 
+  "ride": true, 
   "neon": false,
   "mega": false, 
   "pet": "Monkey"
@@ -116,6 +116,15 @@
   "mega": false, 
   "pet": "Chocolate Labrador"
   },
+ 
+ {
+  "name": "Terry Jr",
+  "fly": false, 
+  "ride": true, 
+  "neon": true,
+  "mega": false, 
+  "pet": "Wolf"
+ {
  
  {
   "name": "Terry",
